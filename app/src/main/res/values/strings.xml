@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoTo</string>
+    <string name="dan_de">Dàn đề</string>
+    <string name="bach_thu_lo">Bạch thủ lô</string>
+    <string name="song_thu_lo">Song thủ lô</string>
+    <string name="dan_lo_5_so">Dàn lô 5 số</string>
+
+</resources>
